@@ -1,64 +1,30 @@
-# Main background — soft paper
 theme[main_bg]="#F8F6F1"
-
-# Main text — charcoal ink
 theme[main_fg]="#2E2E2E"
-
-# Title color for boxes — subtle darker ink tone
 theme[title]="#3A3A3A"
-
-# Highlight color for keyboard shortcuts — inked red accent
 theme[hi_fg]="#C95E4A"
-
-# Background color of selected items — gentle paper shadow
 theme[selected_bg]="#EAE3D7"
-
-# Foreground color of selected items — teal ink highlight
 theme[selected_fg]="#509475"
-
-# Inactive/disabled text — light graphite
 theme[inactive_fg]="#7A7A7A"
-
-# Text appearing on top of graphs — soft charcoal
 theme[graph_text]="#3F3F3F"
-
-# Misc colors for processes box — mid gray for neutrality
 theme[proc_misc]="#4E4E4E"
-
-# Box outlines — muted teal ink
 theme[cpu_box]="#79B8A3"
 theme[mem_box]="#79B8A3"
 theme[net_box]="#79B8A3"
 theme[proc_box]="#79B8A3"
-
-# Divider lines and small boxes — same muted teal for consistency
 theme[div_line]="#79B8A3"
-
-# Temperature graph colors — warm ink-like gradient
 theme[temp_start]="#C9A44C"
 theme[temp_mid]="#D4B259"
 theme[temp_end]="#E5C736"
-
-# CPU graph colors — ink greens and teals
-theme[cpu_start]="#549E6A"
-theme[cpu_mid]="#63B07A"
+theme[cpu_start]="#4A4A4A"
+theme[cpu_mid]="#6A6A6A"
 theme[cpu_end]="#79B8A3"
-
-# Memory/Disk free meter — soft teal shades
-theme[free_start]="#63B07A"
+theme[free_start]="#6A6A6A"
 theme[free_mid]="#79B8A3"
 theme[free_end]="#8CD3CB"
-
-# Memory/Disk cached meter
-theme[cached_start]="#63B07A"
+theme[cached_start]="#6A6A6A"
 theme[cached_mid]="#79B8A3"
 theme[cached_end]="#8CD3CB"
-
-# Memory/Disk available meter
-theme[available_start]="#63B07A"
+theme[available_start]="#6A6A6A"
 theme[available_mid]="#79B8A3"
 theme[available_end]="#8CD3CB"
-
-# Memory/Disk used meter
 theme[used_start]="#C95E4A"
-theme[us]()
