@@ -1,6 +1,6 @@
-@define-color selected-text #e1b55e;
-@define-color text #ebfff2;
-@define-color base #11221C;
-@define-color border #214237;
-@define-color foreground #11221C;
-@define-color background #11221C;
+@define-color selected-text #BDA24C;  /* muted gold for selected text */
+@define-color text #2E2E2E;           /* main charcoal ink text */
+@define-color base #F8F6F1;           /* soft ivory paper background */
+@define-color border #4A4A4A;         /* graphite border */
+@define-color foreground #2E2E2E;     /* charcoal ink for general foreground */
+@define-color background #F8F6F1;     /* soft paper background */

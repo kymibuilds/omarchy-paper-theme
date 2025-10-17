@@ -1,87 +1,64 @@
-# Main background
-theme[main_bg]="#111c18"
+# Main background — soft paper
+theme[main_bg]="#F8F6F1"
 
-# Main text color
-theme[main_fg]="#F7E8B2"
+# Main text — charcoal ink
+theme[main_fg]="#2E2E2E"
 
-# Title color for boxes
-theme[title]="#D6D5BC"
+# Title color for boxes — subtle darker ink tone
+theme[title]="#3A3A3A"
 
-# Highlight color for keyboard shortcuts
-theme[hi_fg]="#E67D64"
+# Highlight color for keyboard shortcuts — inked red accent
+theme[hi_fg]="#C95E4A"
 
-# Background color of selected items
-theme[selected_bg]="#364538"
+# Background color of selected items — gentle paper shadow
+theme[selected_bg]="#EAE3D7"
 
-# Foreground color of selected items
-theme[selected_fg]="#DEB266"
+# Foreground color of selected items — teal ink highlight
+theme[selected_fg]="#509475"
 
-# Color of inactive/disabled text
-theme[inactive_fg]="#32473B"  
+# Inactive/disabled text — light graphite
+theme[inactive_fg]="#7A7A7A"
 
-# Color of text appearing on top of graphs
-theme[graph_text]="#E6D8BA"
+# Text appearing on top of graphs — soft charcoal
+theme[graph_text]="#3F3F3F"
 
-# Misc colors for processes box
-theme[proc_misc]="#E6D8BA"
+# Misc colors for processes box — mid gray for neutrality
+theme[proc_misc]="#4E4E4E"
 
-# Cpu box outline color
-theme[cpu_box]="#81B8A8"
+# Box outlines — muted teal ink
+theme[cpu_box]="#79B8A3"
+theme[mem_box]="#79B8A3"
+theme[net_box]="#79B8A3"
+theme[proc_box]="#79B8A3"
 
-# Memory/disks box outline color
-theme[mem_box]="#81B8A8"
+# Divider lines and small boxes — same muted teal for consistency
+theme[div_line]="#79B8A3"
 
-# Net up/down box outline color
-theme[net_box]="#81B8A8"
+# Temperature graph colors — warm ink-like gradient
+theme[temp_start]="#C9A44C"
+theme[temp_mid]="#D4B259"
+theme[temp_end]="#E5C736"
 
-# Processes box outline color
-theme[proc_box]="#81B8A8"
+# CPU graph colors — ink greens and teals
+theme[cpu_start]="#549E6A"
+theme[cpu_mid]="#63B07A"
+theme[cpu_end]="#79B8A3"
 
-# Box divider line and small boxes line color
-theme[div_line]="#81B8A8"
+# Memory/Disk free meter — soft teal shades
+theme[free_start]="#63B07A"
+theme[free_mid]="#79B8A3"
+theme[free_end]="#8CD3CB"
 
-# Temperature graph colors
-theme[temp_start]="#BFD99A"
-theme[temp_mid]="#E1B55E"
-theme[temp_end]="#DBB05C"
+# Memory/Disk cached meter
+theme[cached_start]="#63B07A"
+theme[cached_mid]="#79B8A3"
+theme[cached_end]="#8CD3CB"
 
-# CPU graph colors
-theme[cpu_start]="#5F8C86"
-theme[cpu_mid]="#629C89"
-theme[cpu_end]="#76AD98"
+# Memory/Disk available meter
+theme[available_start]="#63B07A"
+theme[available_mid]="#79B8A3"
+theme[available_end]="#8CD3CB"
 
-# Mem/Disk free meter
-theme[free_start]="#5F8C86"
-theme[free_mid]="#629C89"
-theme[free_end]="#76AD98"
-
-# Mem/Disk cached meter
-theme[cached_start]="#5F8C86"
-theme[cached_mid]="#629C89"
-theme[cached_end]="#76AD98"
-
-# Mem/Disk available meter
-theme[available_start]="#5F8C86"
-theme[available_mid]="#629C89"
-theme[available_end]="#76AD98"
-
-# Mem/Disk used meter
-theme[used_start]="#5F8C86"
-theme[used_mid]="#629C89"
-theme[used_end]="#76AD98"
-
-# Download graph colors
-theme[download_start]="#75BBB3"
-theme[download_mid]="#61949A"
-theme[download_end]="#215866"
-
-# Upload graph colors
-theme[upload_start]="#215866"
-theme[upload_mid]="#91C080"
-theme[upload_end]="#549E6A"
-
-# Process box color gradient for threads, mem and cpu usage
-theme[process_start]="#72CFA3"
-theme[process_mid]="#D0D494"
-theme[process_end]="#DB9F9C"
-
+# Memory/Disk used meter
+theme[used_start]="#C95E4A"
+theme[us]()

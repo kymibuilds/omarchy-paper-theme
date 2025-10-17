@@ -1,5 +1,5 @@
-@define-color background-color #11221C;
-@define-color border-color #589A5F;
-@define-color label #C0C396;
-@define-color image #C0C396;
-@define-color progress #C0C396;
+@define-color background-color #F8F6F1;  /* soft ivory paper */
+@define-color border-color     #4A4A4A;  /* subtle graphite border */
+@define-color label            #2E2E2E;  /* charcoal ink */
+@define-color image            #2E2E2E;  /* charcoal ink for icons/images */
+@define-color progress         #509475;  /* teal ink accent for progress bars */
