@@ -32,11 +32,9 @@ omarchy-theme-install https://github.com/kymibuilds/omarchy-paper-theme.git
 
 ---
 
-## Palette Highlights
-- **Background:** soft ivory (#F8F6F1)
-- **Text:** charcoal ink (#2E2E2E)
-- **Accents:** teal ink (#509475), muted red (#C95E4A), warm gold (#BDA24C)
-
+## Preview
+![Preview 1](preview/preview-1.png)
+![Preview 2](preview/preview-2.png)
 ---
 
 ## Repository & Updates
