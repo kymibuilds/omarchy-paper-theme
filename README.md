@@ -16,7 +16,7 @@ You can set Ink & Paper as your theme directly from the Omarchy menu — no addi
 ## Install with GUI
 1. Copy the repository link:
 ```bash
-https://github.com/kymibuilds/omarchy-ink-paper-theme.git
+https://github.com/kymibuilds/omarchy-paper-theme.git
 ```
 2. Press `SUPER + ALT + SPACE`
 3. Click `Install`
@@ -27,7 +27,7 @@ https://github.com/kymibuilds/omarchy-ink-paper-theme.git
 
 ## Install with Bash
 ```bash
-omarchy-theme-install https://github.com/kymibuilds/omarchy-ink-paper-theme.git
+omarchy-theme-install https://github.com/kymibuilds/omarchy-paper-theme.git
 ```
 
 ---
